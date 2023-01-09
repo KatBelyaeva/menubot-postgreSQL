@@ -1,5 +1,5 @@
 # Menubot + PostgreSQL
-![](screen1.png)
+![](screen1.jpg)
 
 
 Телебот выполнен при помощи:
